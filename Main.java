@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world");
-        System.out.println("New branch added --Main");
+        System.out.println("New branch added --Case_1");
     }
 }
